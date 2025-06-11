@@ -7,4 +7,8 @@ A quick and dirty UIFlow program to plot the X and Y values of a Lorenz attracto
 
 ![alt text](lorenzcore-blockly.png)
 
+Also included in this repo is an Arduino IDE version. Cycle through brightess with BtnC. Updated for M5Unified.
+
+
+
 
